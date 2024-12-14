@@ -1,4 +1,4 @@
-module query
+module counter
 
 go 1.23.1
 
